@@ -1,4 +1,3 @@
 
-## [Constitution](constitution.pdf)
-The constitution is the governing document of the SFU CSGSA. The document is regularily under review and is updated as needed.
-- **[Archived](archive) File Naming Convention**: *yyyymmdd_constitution* (yyyymmdd is the date the old constitution was archived)
+# Archived File Naming Convention
+*yyyymmdd_filename* (yyyymmdd is the date the file was archived) e.g. 20171212_constitution.pdf
