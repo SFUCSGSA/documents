@@ -9,7 +9,7 @@ Meeting minutes typically record discussions and motions in regards to council e
 
 ## [Constitution](constitution)
 The constitution is the governing document of the SFU CSGSA. The document is regularily under review and is updated as needed.
-- **File Naming Convention**: *yyyymmdd_constitution* (yyyymmdd is the date the constitution was amended/updated)
+- **File Naming Convention**: *yyyymmdd_constitution* (yyyymmdd is the date the constitution was amended)
 
 ## Balance Sheet
 The "balance sheet" contains a history of all financial transactions that occured within the SFU CSGSA.
