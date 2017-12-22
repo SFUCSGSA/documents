@@ -7,4 +7,10 @@ Meeting minutes typically record discussions and motions in regards to council e
 - **Minutes Template**: To be updated
 - All minutes and executive role updates are to be submitted to the GSS: http://sfugradsociety.ca/caucuses/caucus-minutes/
 
+## [Constitution](constitution)
+The constitution is the governing document of the SFU CSGSA. The document is regularily under review and is updated as needed.
+- **File Naming Convention**: *yyyymmdd_constitution* (yyyymmdd is the date the constitution was amended/updated)
 
+## Balance Sheet
+The "balance sheet" contains a history of all financial transactions that occured within the SFU CSGSA.
+- **File Naming Convention**: *yyyymmdd_balance.xlsx* (yyyymmdd is the date the balance sheet was updated)
