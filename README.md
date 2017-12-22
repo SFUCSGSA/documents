@@ -13,4 +13,4 @@ The constitution is the governing document of the SFU CSGSA. The document is reg
 
 ## Balance Sheet
 The "balance sheet" contains a history of all financial transactions that occured within the SFU CSGSA.
-- **File Naming Convention**: *yyyymmdd_balance.xlsx* (yyyymmdd is the date the balance sheet was updated)
+
