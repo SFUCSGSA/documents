@@ -1,7 +1,7 @@
-# documents
-SFU CSGSA Public Administrative Documents
+# Documents
+This repository contains SFU CSGSA public administrative documents.
 
-### [SFU CSGSA General Caucus Meeting Minutes (Semesterly)](minutes)
+## [General Caucus Meeting Minutes](minutes) (Semesterly)
 Meeting minutes typically record discussions and motions in regards to council executive roles, event proposals, budget approvals, and more.
 - File Naming Convention: yyyymmdd_csgsa_minutes (yyyymmdd is the date the general meeting was held on)
 - Minutes Template: To be updated
